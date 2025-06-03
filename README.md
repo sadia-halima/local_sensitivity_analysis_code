@@ -37,3 +37,4 @@ Alzheimers_Model/
 ### 1. Clone the Repository
 https://github.com/sadia-halima/local_sensitivity_analysis_code.git
 ```bash
+pip install -r requirements.txt
