@@ -13,6 +13,7 @@ Alzheimers_Model/
 │
 ├── src/
 │   ├── equations_SA.py                          # System of 19 ODEs representing biological processes
+
 │   ├── InitialConditions.py                     # Computes initial values for all variables
 │   ├── parameters.py                            # Parameter definitions (must be added)
 │
