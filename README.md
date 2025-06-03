@@ -30,11 +30,16 @@ Alzheimers_Model/
 │
 ├── requirements.txt                             # Python package dependencies
 ├── README.md                                    # This documentation
-└── LICENSE                                      # Optional license (MIT recommended)
+
 
 ## 🚀 How to Run the Code
 
 ### 1. Clone the Repository
 https://github.com/sadia-halima/local_sensitivity_analysis_code.git
 ```bash
-pip install -r requirements.txt
+### 2. pip install -r requirements.txt
+numpy
+pandas
+scipy
+matplotlib
+
