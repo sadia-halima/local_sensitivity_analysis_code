@@ -26,10 +26,10 @@ Alzheimers_Model/
 ├── results/
 │   ├── mean_relative_sensitivity_AB.png         # Aβ sensitivity results
 │   ├── mean_relative_sensitivity_N.png          # Neuron loss sensitivity results
-│   ├── mean_relative_sensitivity_tau.png        # Tau sensitivity results
-│
-├── requirements.txt                             # Python package dependencies
-├── README.md                                    # This documentation
+ mean_relative_sensitivity_tau.png        # Tau sensitivity results
+
+requirements.txt                             # Python package dependencies
+ README.md                                    # This documentation
 
 
 ## 🚀 How to Run the Code
@@ -37,6 +37,7 @@ Alzheimers_Model/
 ### 1. Clone the Repository
 https://github.com/sadia-halima/local_sensitivity_analysis_code.git
 ```bash
+
 ### 2. pip install -r requirements.txt
 numpy
 pandas
