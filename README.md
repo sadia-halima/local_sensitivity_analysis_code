@@ -9,25 +9,7 @@ The purpose of this sensitivity analysis is to identify the most influential par
 
 ## 📁 Repository Structure
 
-Alzheimers_Model/
-│
-├── src/
-│   ├── equations_SA.py                          # System of 19 ODEs representing biological processes
 
-│   ├── InitialConditions.py                     # Computes initial values for all variables
-│   ├── parameters.py                            # Parameter definitions (must be added)
-│
-├── analysis/
-│   ├── mean_relative_change.py                  # Sensitivity using mean relative % change
-│   ├── One-at-a-time_SA.py                      # One-at-a-time parameter perturbation
-│   ├── groupwiseSynergy.py                      # Group-wise sensitivity or synergy exploration
-│   ├── specific_parameter_perturbation_OAT.py   # Specific OAT perturbation for selected parameters
-│   ├── single_parameter_perturb.py              # Single parameter test analysis
-│
-├── results/
-│   ├── mean_relative_sensitivity_AB.png         # Aβ sensitivity results
-│   ├── mean_relative_sensitivity_N.png          # Neuron loss sensitivity results
- mean_relative_sensitivity_tau.png        # Tau sensitivity results
 
 requirements.txt                             # Python package dependencies
  README.md                                    # This documentation
