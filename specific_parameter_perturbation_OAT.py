@@ -1,4 +1,11 @@
+"""
+Sensitivity Analysis
 
+sensitivity_N
+
+Author: Halima sadia
+Date: 2025-01-17
+"""
 
 import numpy as np
 from equations_SA import ODEsystem_SA
